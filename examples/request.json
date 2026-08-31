@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "path": "/api/profile",
+  "headers": {
+    "origin": "https://app.example.test",
+    "authorization": "Bearer demo"
+  },
+  "response_headers": {
+    "Access-Control-Allow-Origin": "*"
+  }
+}
